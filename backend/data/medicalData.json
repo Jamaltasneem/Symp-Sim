@@ -1,0 +1,456 @@
+[
+  {
+    "disease": "Influenza",
+    "symptoms": [
+      "fever",
+      "cough",
+      "sore throat",
+      "fatigue",
+      "headache"
+    ]
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": [
+      "sneezing",
+      "runny nose",
+      "sore throat",
+      "congestion",
+      "mild cough"
+    ]
+  },
+  {
+    "disease": "COVID-19",
+    "symptoms": [
+      "fever",
+      "cough",
+      "shortness of breath",
+      "loss of taste",
+      "loss of smell",
+      "fatigue"
+    ]
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": [
+      "wheezing",
+      "cough",
+      "shortness of breath",
+      "chest tightness"
+    ]
+  },
+  {
+    "disease": "Pneumonia",
+    "symptoms": [
+      "fever",
+      "cough",
+      "chest pain",
+      "shortness of breath",
+      "fatigue"
+    ]
+  },
+  {
+    "disease": "Bronchitis",
+    "symptoms": [
+      "persistent cough",
+      "fatigue",
+      "chest discomfort",
+      "mucus production"
+    ]
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": [
+      "headache",
+      "nausea",
+      "light sensitivity",
+      "sound sensitivity",
+      "aura"
+    ]
+  },
+  {
+    "disease": "Sinusitis",
+    "symptoms": [
+      "facial pain",
+      "nasal congestion",
+      "runny nose",
+      "headache",
+      "postnasal drip"
+    ]
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": [
+      "sneezing",
+      "runny nose",
+      "itchy eyes",
+      "nasal congestion"
+    ]
+  },
+  {
+    "disease": "Eczema",
+    "symptoms": [
+      "rash",
+      "itching",
+      "dry skin",
+      "red patches"
+    ]
+  },
+  {
+    "disease": "Psoriasis",
+    "symptoms": [
+      "scaly skin",
+      "itching",
+      "red patches",
+      "joint pain"
+    ]
+  },
+  {
+    "disease": "Rheumatoid Arthritis",
+    "symptoms": [
+      "joint pain",
+      "morning stiffness",
+      "fatigue",
+      "swelling"
+    ]
+  },
+  {
+    "disease": "Osteoarthritis",
+    "symptoms": [
+      "joint pain",
+      "stiffness",
+      "limited mobility",
+      "creaking joints"
+    ]
+  },
+  {
+    "disease": "IBS",
+    "symptoms": [
+      "abdominal pain",
+      "diarrhea",
+      "bloating",
+      "constipation"
+    ]
+  },
+  {
+    "disease": "Ulcerative Colitis",
+    "symptoms": [
+      "bloody diarrhea",
+      "abdominal pain",
+      "weight loss",
+      "fatigue"
+    ]
+  },
+  {
+    "disease": "Gastritis",
+    "symptoms": [
+      "abdominal pain",
+      "nausea",
+      "vomiting",
+      "loss of appetite"
+    ]
+  },
+  {
+    "disease": "Appendicitis",
+    "symptoms": [
+      "abdominal pain",
+      "fever",
+      "loss of appetite",
+      "nausea"
+    ]
+  },
+  {
+    "disease": "Cardiac Arrest",
+    "symptoms": [
+      "chest pain",
+      "shortness of breath",
+      "loss of consciousness",
+      "irregular heartbeat"
+    ]
+  },
+  {
+    "disease": "Angina",
+    "symptoms": [
+      "chest pain",
+      "shortness of breath",
+      "fatigue",
+      "dizziness"
+    ]
+  },
+  {
+    "disease": "Hypertension",
+    "symptoms": [
+      "headache",
+      "blurred vision",
+      "chest pain",
+      "fatigue"
+    ]
+  },
+  {
+    "disease": "Diabetes Mellitus",
+    "symptoms": [
+      "increased thirst",
+      "frequent urination",
+      "blurred vision",
+      "fatigue"
+    ]
+  },
+  {
+    "disease": "Hyperthyroidism",
+    "symptoms": [
+      "weight loss",
+      "tremor",
+      "heat intolerance",
+      "fast heartbeat"
+    ]
+  },
+  {
+    "disease": "Hypothyroidism",
+    "symptoms": [
+      "weight gain",
+      "fatigue",
+      "cold intolerance",
+      "dry skin"
+    ]
+  },
+  {
+    "disease": "Parkinson\u2019s Disease",
+    "symptoms": [
+      "tremor",
+      "slowness",
+      "stiffness",
+      "balance problems"
+    ]
+  },
+  {
+    "disease": "Epilepsy",
+    "symptoms": [
+      "seizures",
+      "confusion",
+      "staring spells",
+      "uncontrollable jerking"
+    ]
+  },
+  {
+    "disease": "Anemia",
+    "symptoms": [
+      "fatigue",
+      "pale skin",
+      "shortness of breath",
+      "dizziness"
+    ]
+  },
+  {
+    "disease": "Depression",
+    "symptoms": [
+      "sadness",
+      "fatigue",
+      "loss of interest",
+      "insomnia"
+    ]
+  },
+  {
+    "disease": "Anxiety Disorder",
+    "symptoms": [
+      "excessive worry",
+      "restlessness",
+      "fast heartbeat",
+      "difficulty concentrating"
+    ]
+  },
+  {
+    "disease": "Schizophrenia",
+    "symptoms": [
+      "hallucinations",
+      "delusions",
+      "disorganized speech",
+      "social withdrawal"
+    ]
+  },
+  {
+    "disease": "Bipolar Disorder",
+    "symptoms": [
+      "mood swings",
+      "mania",
+      "depression",
+      "racing thoughts"
+    ]
+  },
+  {
+    "disease": "Liver Cirrhosis",
+    "symptoms": [
+      "fatigue",
+      "jaundice",
+      "abdominal swelling",
+      "easy bruising"
+    ]
+  },
+  {
+    "disease": "Hepatitis B",
+    "symptoms": [
+      "jaundice",
+      "fatigue",
+      "abdominal pain",
+      "dark urine"
+    ]
+  },
+  {
+    "disease": "Kidney Stones",
+    "symptoms": [
+      "severe flank pain",
+      "blood in urine",
+      "nausea",
+      "frequent urination"
+    ]
+  },
+  {
+    "disease": "Chronic Kidney Disease",
+    "symptoms": [
+      "swelling",
+      "fatigue",
+      "nausea",
+      "decreased urine output"
+    ]
+  },
+  {
+    "disease": "UTI",
+    "symptoms": [
+      "burning urination",
+      "frequent urination",
+      "cloudy urine",
+      "pelvic pain"
+    ]
+  },
+  {
+    "disease": "Tuberculosis",
+    "symptoms": [
+      "persistent cough",
+      "fever",
+      "night sweats",
+      "weight loss"
+    ]
+  },
+  {
+    "disease": "Malaria",
+    "symptoms": [
+      "fever",
+      "chills",
+      "sweating",
+      "headache"
+    ]
+  },
+  {
+    "disease": "Dengue",
+    "symptoms": [
+      "high fever",
+      "rash",
+      "joint pain",
+      "muscle pain"
+    ]
+  },
+  {
+    "disease": "Chikungunya",
+    "symptoms": [
+      "fever",
+      "joint pain",
+      "rash",
+      "fatigue"
+    ]
+  },
+  {
+    "disease": "Typhoid Fever",
+    "symptoms": [
+      "fever",
+      "abdominal pain",
+      "constipation",
+      "headache"
+    ]
+  },
+  {
+    "disease": "Chickenpox",
+    "symptoms": [
+      "rash",
+      "itching",
+      "fever",
+      "loss of appetite"
+    ]
+  },
+  {
+    "disease": "Measles",
+    "symptoms": [
+      "rash",
+      "fever",
+      "cough",
+      "red eyes"
+    ]
+  },
+  {
+    "disease": "Mumps",
+    "symptoms": [
+      "swollen glands",
+      "fever",
+      "headache",
+      "muscle aches"
+    ]
+  },
+  {
+    "disease": "Whooping Cough",
+    "symptoms": [
+      "severe cough",
+      "vomiting after cough",
+      "fatigue"
+    ]
+  },
+  {
+    "disease": "HIV/AIDS",
+    "symptoms": [
+      "fever",
+      "night sweats",
+      "weight loss",
+      "chronic diarrhea"
+    ]
+  },
+  {
+    "disease": "Syphilis",
+    "symptoms": [
+      "painless sore",
+      "rash",
+      "fever",
+      "swollen lymph nodes"
+    ]
+  },
+  {
+    "disease": "Gonorrhea",
+    "symptoms": [
+      "painful urination",
+      "discharge",
+      "pelvic pain"
+    ]
+  },
+  {
+    "disease": "Chlamydia",
+    "symptoms": [
+      "painful urination",
+      "discharge",
+      "lower abdominal pain"
+    ]
+  },
+  {
+    "disease": "Celiac Disease",
+    "symptoms": [
+      "diarrhea",
+      "bloating",
+      "weight loss",
+      "fatigue"
+    ]
+  },
+  {
+    "disease": "Lupus",
+    "symptoms": [
+      "joint pain",
+      "rash",
+      "fatigue",
+      "fever"
+    ]
+  }
+]
