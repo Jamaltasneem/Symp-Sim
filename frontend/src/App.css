@@ -1,0 +1,139 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f7f6;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background: #2a9d8f;
+    padding: 1rem;
+    color: white;
+    text-align: center;
+}
+
+.simulator-container {
+    max-width: 600px;
+    margin: 2rem auto;
+    text-align: center;
+}
+
+.patient-card {
+    background: white;
+    padding: 1.5rem;
+    margin-top: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.patient-card p {
+    margin: 0.5rem 0;
+}
+
+input[type="text"] {
+    padding: 0.5rem;
+    width: 70%;
+    margin-top: 1rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.btn {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    background: #2a9d8f;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #21867a;
+}
+
+.score {
+    margin-top: 1rem;
+    font-weight: bold;
+}
+
+.auth-container {
+    background: white;
+    max-width: 400px;
+    margin: 2rem auto;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.auth-container input {
+    display: block;
+    width: 90%;
+    margin: 0.5rem auto;
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.toggle-link {
+    color: #2a9d8f;
+    cursor: pointer;
+    font-size: 0.9rem;
+    margin-top: 1rem;
+}
+.toggle-link:hover {
+    text-decoration: underline;
+}
+
+.logout-btn {
+  background: #e63946; /* red-ish */
+  color: #fff;
+  border: none;
+  padding: 0.45rem 0.9rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: opacity 0.15s ease;
+}
+.logout-btn:hover {
+  opacity: 0.9;
+}
