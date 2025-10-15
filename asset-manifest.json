@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Symp-Sim/static/css/main.afbf0ee6.css",
+    "main.js": "/Symp-Sim/static/js/main.200177a6.js",
+    "static/js/453.670e15c7.chunk.js": "/Symp-Sim/static/js/453.670e15c7.chunk.js",
+    "index.html": "/Symp-Sim/index.html",
+    "main.afbf0ee6.css.map": "/Symp-Sim/static/css/main.afbf0ee6.css.map",
+    "main.200177a6.js.map": "/Symp-Sim/static/js/main.200177a6.js.map",
+    "453.670e15c7.chunk.js.map": "/Symp-Sim/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afbf0ee6.css",
+    "static/js/main.200177a6.js"
+  ]
+}
